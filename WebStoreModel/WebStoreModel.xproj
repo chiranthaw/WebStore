@@ -7,7 +7,7 @@
 
   <Import Project="$(VSToolsPath)\DNX\Microsoft.DNX.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>d456650a-9d0b-42aa-9e0d-fe62bca7b102</ProjectGuid>
+    <ProjectGuid>94e38f95-6482-4eeb-b396-9d717a519162</ProjectGuid>
     <RootNamespace>WebStoreModel</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">..\artifacts\obj\$(MSBuildProjectName)</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">..\artifacts\bin\$(MSBuildProjectName)\</OutputPath>
