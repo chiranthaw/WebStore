@@ -21,5 +21,7 @@ namespace WebStoreModel
 
         public int id { get; set; }
         public string zipCode { get; set; }
+
+        
     }
 }

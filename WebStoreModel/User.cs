@@ -39,5 +39,7 @@ namespace WebStoreModel
         public string address { get; set; }
         public string mobile { get; set; }
         public ZipCode zipCode { get; set; }
+
+
     }
 }
